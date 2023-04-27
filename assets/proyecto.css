@@ -103,7 +103,7 @@ header a:hover {
     flex-direction: column;
     color: white;
     height: 90vh;
-    background-image: linear-gradient( 0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/programar.jpg);
+    background-image: linear-gradient( 0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/img/programar.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -144,7 +144,7 @@ header a:hover {
 }
 
 #nuestrosprogramas .carta1 {
-    background-image: linear-gradient( 0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/html.png);
+    background-image: linear-gradient( 0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/img/html.png);
     background-position: center center;
     background-size: cover;
     padding: 50px;
@@ -153,7 +153,7 @@ header a:hover {
 }
 
 #nuestrosprogramas .carta2 {
-    background-image: linear-gradient( 0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/css.jpeg);
+    background-image: linear-gradient( 0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/img/css.jpeg);
     background-position: center center;
     background-size: cover;
     padding: 50px;
@@ -162,7 +162,7 @@ header a:hover {
 }
 
 #nuestrosprogramas .carta3 {
-    background-image: linear-gradient( 0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/js.png);
+    background-image: linear-gradient( 0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/img/js.png);
     background-position: center center;
     background-size: cover;
     padding: 50px;
@@ -171,7 +171,7 @@ header a:hover {
 }
 
 #nuestrosprogramas .carta4 {
-    background-image: linear-gradient( 0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/java.png);
+    background-image: linear-gradient( 0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/img/java.png);
     background-position: center center;
     background-size: cover;
     padding: 50px;
@@ -180,7 +180,7 @@ header a:hover {
 }
 
 #nuestrosprogramas .carta5 {
-    background-image: linear-gradient( 0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/python.png);
+    background-image: linear-gradient( 0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/img/python.png);
     background-position: center center;
     background-size: cover;
     padding: 50px;
@@ -257,7 +257,7 @@ footer a {
         padding left: 50px;
     }
     #somosproya .img-container {
-        background-image: url(img/Ale.jpg);
+        background-image: url(/img/Ale.jpg);
         background-size: cover;
         background-position: center center;
         height: 400px;
