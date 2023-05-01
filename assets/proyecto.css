@@ -95,7 +95,7 @@ header a:hover {
     color: red;
 }
 
-#hero {
+#estudiante {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -109,43 +109,43 @@ header a:hover {
     background-position: center center;
 }
 
-#hero h1 {
+#estudiante h1 {
     color: white;
 }
 
-#hero button {
+#estudiante button {
     font-size: 1.75;
 }
 
-#somosproya {
+#ale {
     background-color: rgb(245, 245, 245);
 }
 
-#somosproya .container {
+#ale .container {
     text-align: center;
     padding: 200px 12px;
 }
 
-#nuestrosprogramas {
+#conocimientos {
     background-color: black;
     text-align: center;
     color: white;
 }
 
-#nuestrosprogramas .container {
+#conocimientos .container {
     padding: 150px 0px;
 }
 
-#nuestrosprogramas p {
+#conocimientos p {
     display: none;
 }
 
-#nuestrosprogramas h2 {
+#conocimientos h2 {
     font-size: 3.2em;
     margin-top: 0;
 }
 
-#nuestrosprogramas .carta1 {
+#conocimientos .carta1 {
     background-image: linear-gradient( 0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/html.png);
     background-position: center center;
     background-size: cover;
@@ -154,7 +154,7 @@ header a:hover {
     border-radius: 15px;
 }
 
-#nuestrosprogramas .carta2 {
+#conocimientos .carta2 {
     background-image: linear-gradient( 0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/css.jpeg);
     background-position: center center;
     background-size: cover;
@@ -163,7 +163,7 @@ header a:hover {
     border-radius: 15px;
 }
 
-#nuestrosprogramas .carta3 {
+#conocimientos .carta3 {
     background-image: linear-gradient( 0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/js.png);
     background-position: center center;
     background-size: cover;
@@ -172,7 +172,7 @@ header a:hover {
     border-radius: 15px;
 }
 
-#nuestrosprogramas .carta4 {
+#conocimientos .carta4 {
     background-image: linear-gradient( 0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/java.png);
     background-position: center center;
     background-size: cover;
@@ -181,7 +181,7 @@ header a:hover {
     border-radius: 15px;
 }
 
-#nuestrosprogramas .carta5 {
+#conocimientos .carta5 {
     background-image: linear-gradient( 0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/python.png);
     background-position: center center;
     background-size: cover;
@@ -190,7 +190,7 @@ header a:hover {
     border-radius: 15px;
 }
 
-#aplicaya {
+#cv {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -201,11 +201,11 @@ header a:hover {
     height: 80vh;
 }
 
-#aplicaya .h2 {
+#cv .h2 {
     font-size: 3em;
 }
 
-#aplicaya .buttom {
+#cv .buttom {
     font-size: 1.75em;
 }
 
@@ -244,11 +244,11 @@ footer a {
         padding-bottom: 0;
         padding-right: 20px;
     }
-    #somosproya .container {
+    #ale .container {
         justify-content: space-evenly;
         display: flex;
     }
-    #somosproya .texto {
+    #ale .texto {
         width: 50%;
         text-align: initial;
         padding: 0px 30px;
@@ -258,40 +258,40 @@ footer a {
         justify-content: center;
         padding left: 50px;
     }
-    #somosproya .img-container {
+    #ale .img-container {
         background-image: url(../img/Ale.jpg);
         background-size: cover;
         background-position: center center;
         height: 400px;
         width: 200px;
     }
-    #somosproya h2 {
+    #ale h2 {
         margin-top: 0;
     }
-    #nuestrosprogramas .programas {
+    #conocimientos .programas {
         display: flex;
         justify-content: center;
     }
-    #nuestrosprogramas p {
+    #conocimientos p {
         display: block;
         margin-bottom: 30px;
     }
-    #nuestrosprogramas h3 {
+    #conocimientos h3 {
         margin-top: 0;
     }
-    #nuestrosprogramas .carta1 {
+    #conocimientos .carta1 {
         padding: 15px;
     }
-    #nuestrosprogramas .carta2 {
+    #conocimientos .carta2 {
         padding: 15px;
     }
-    #nuestrosprogramas .carta3 {
+    #conocimientos .carta3 {
         padding: 15px;
     }
-    #nuestrosprogramas .carta4 {
+    #conocimientos .carta4 {
         padding: 15px;
     }
-    #nuestrosprogramas .carta5 {
+    #conocimientos .carta5 {
         padding: 15px;
     }
 }
