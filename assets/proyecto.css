@@ -117,6 +117,10 @@ header a:hover {
     font-size: 1.75;
 }
 
+#somosproya {
+    background-color: rgb(245, 245, 245);
+}
+
 #somosproya .container {
     text-align: center;
     padding: 200px 12px;
